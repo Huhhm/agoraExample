@@ -1,0 +1,1 @@
+export const SERVER_URL = "http://123.24.205.68:8010/api/";
